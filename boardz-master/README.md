@@ -23,4 +23,6 @@
 ```
 
 ## board.php (수정)
-[내용 추가!!]
+-MySQL 데이터베이스 연결하기
+    mysql_connect
+    mysql_select_db
