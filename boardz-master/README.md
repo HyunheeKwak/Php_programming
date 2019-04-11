@@ -23,6 +23,6 @@
 ```
 
 ## board.php (수정)
--MySQL 데이터베이스 연결하기
-    mysql_connect
-    mysql_select_db
+- MySQL 데이터베이스 연결하기
+    - mysql_connect
+    - mysql_select_db
