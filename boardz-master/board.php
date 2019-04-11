@@ -1,7 +1,7 @@
 <!-- 구글 검색 : galley board css => CSS Only Pinterest-like Responsive Board Layout - Boardz.css | CSS ... -->
 <!-- 출처 : https://www.cssscript.com/css-pinterest-like-responsive-board-layout-boardz-css/ -->
 
-<? php
+<?php
 $connect = mysql_connect("localhost", "khh", "1234");
 mysql_select_db("khh_db", $connect);
 
